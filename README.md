@@ -20,7 +20,7 @@
 
 2. Time-period Analysis:
 - Analyze data in holidays to see whether the ratings are different from non-holidays
-- Words such as "service", "time", "table", "wait" are frequently mentioned in negative reviews during holidays, meaning that the restaurant should consider optimize their operation to shorten waiting time and maintain their service quality.
+- Words such as "service", "time", "table", "wait" are frequently mentioned in negative reviews during holidays, comparing to words related to dishes, such as "steak", "dish". It indicates that customers are satisfied with current service quality, but are dissatisfied with service. The restaurant should consider prioritize serving time during holiday seasons over the dish quality.
 - <img width="659" alt="Time_Series_analysis" src="https://user-images.githubusercontent.com/25638475/147896911-1e2950f9-637c-4837-9621-66d7a962700a.png">
 
 3. LDA Topic Classification:
